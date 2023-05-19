@@ -1,7 +1,8 @@
 body {
+  color: white;
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background-image: url('./images/sw-bg.jpg');
+  background-image: url('./images/stars_space_dark_139528_1920x1080.jpg');
   background-size: cover;
 }
