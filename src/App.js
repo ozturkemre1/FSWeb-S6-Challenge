@@ -35,6 +35,7 @@ Promise.all([charsPromise,filmsPromise,promise3]).then((values)=> {
        {loading && <h1>Hello there.</h1>}
        {!loading && (
         <div>
+      <audio id="audio" src="https://voca.ro/1mB9ZYkZRtHi"></audio>
       <Karakter chars={chars} films={films} />
         </div>
        )}
